@@ -12,3 +12,13 @@
 - .Seguros
 - .Créditos7
 - 5.Salir 
+## etapa 2:
+entrada:
+- nombre del usuario 
+- pin (en este caso se va a insertar de 4 en 4 )
+proceso
+- entrada de menu 
+ - salario 
+ -seguros
+ -creditos
+ 
