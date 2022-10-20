@@ -51,7 +51,7 @@ salida :
 
 ## etapa 4:
 
-![](https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.png)
+![](https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.zip)
 
 ## etapa 5:
 
