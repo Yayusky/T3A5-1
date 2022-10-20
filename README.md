@@ -22,22 +22,23 @@ proceso
  -seguros
  -creditos
 salida :
-+---------------------------------------------------------+
-| -bienvenido juanito 
-| - por favor inserte el menu que usted desee realizar
-|- 1.Consultar saldo
-|- 2.Consultar estado de cuenta
-|- 3.Retirar efectivo
-|- 4.Otras opciones
-|- .Seguros
-|- .Créditos
-|- 5.Salir 
 +--------------------------------------------------------+
-|-gracias por elegir su servicio
-|
-|
-|
-|
+| -bienvenido juanito                                    |
+| - por favor inserte el menu que usted desee realizar   |
+|- 1.Consultar saldo                                     |
+|- 2.Consultar estado de cuenta                          |
+|- 3.Retirar efectivo                                    |
+|- 4.Otras opciones                                      |
+|- .Seguros                                              |
+|- .Créditos                                             |
+|- 5.Salir                                               |
++--------------------------------------------------------+
++-------------------------------------------------------+
+|-gracias por elegir su servicio                        |
+|                                                       |
+|                                                       |
+|                                                       |
+|                                                       |
 +-------------------------------------------------------+
 
 
@@ -46,4 +47,4 @@ salida :
 
 ## etapa 4:
 
-![] ()
+![] (https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.png)
