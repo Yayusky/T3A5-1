@@ -25,10 +25,10 @@ salida :
 +--------------------------------------------------------+
 | -bienvenido juanito                                    |
 | - por favor inserte el menu que usted desee realizar   |
-|- 1.Consultar saldo                                     |
-|- 2.Consultar estado de cuenta                          |
-|- 3.Retirar efectivo                                    |
-|- 4.Otras opciones                                      |
+|1.Consultar saldo                                       |
+|2.Consultar estado de cuenta                            |
+|3.Retirar efectivo                                      |
+| 4.Otras opciones                                       |
 |- .Seguros                                              |
 |- .Créditos                                             |
 |- 5.Salir                                               |
