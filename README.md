@@ -10,7 +10,7 @@
 - 3.Retirar efectivo
 - 4.Otras opciones
 - .Seguros
-- .Créditos7
+- .Créditos
 - 5.Salir 
 ## etapa 2:
 entrada:
@@ -21,4 +21,29 @@ proceso
  - salario 
  -seguros
  -creditos
- 
+salida :
++---------------------------------------------------------+
+| -bienvenido juanito 
+| - por favor inserte el menu que usted desee realizar
+|- 1.Consultar saldo
+|- 2.Consultar estado de cuenta
+|- 3.Retirar efectivo
+|- 4.Otras opciones
+|- .Seguros
+|- .Créditos
+|- 5.Salir 
++--------------------------------------------------------+
+|-gracias por elegir su servicio
+|
+|
+|
+|
++-------------------------------------------------------+
+
+
+
+
+
+## etapa 4:
+
+![] ()
