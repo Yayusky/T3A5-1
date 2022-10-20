@@ -22,6 +22,7 @@ proceso
  -seguros
  -creditos
 salida :
+~~~
 +--------------------------------------------------------+
 | -bienvenido juanito                                    |
 | - por favor inserte el menu que usted desee realizar   |
@@ -33,6 +34,8 @@ salida :
 | - .Créditos                                            |
 | - 5.Salir                                              |
 +--------------------------------------------------------+
+~~~
+~~~
 +-------------------------------------------------------+
 |-gracias por elegir su servicio                        |
 |                                                       |
@@ -40,11 +43,11 @@ salida :
 |                                                       |
 |                                                       |
 +-------------------------------------------------------+
-
+~~~
 
 
 
 
 ## etapa 4:
 
-![] (https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.png)
+![](https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.png)
