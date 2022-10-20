@@ -13,9 +13,8 @@
 - .Créditos
 - 5.Salir 
 ## etapa 2:
+
 entrada:
-- nombre del usuario 
-- pin (en este caso se va a insertar de 4 en 4 )
 proceso
 - entrada de menu 
  - salario 
@@ -24,22 +23,18 @@ proceso
 salida :
 ~~~
 +--------------------------------------------------------+
-| -bienvenido juanito                                    |
-| - por favor inserte el menu que usted desee realizar   |
-| 1.Consultar saldo                                      |
-| 2.Consultar estado de cuenta                           |
-| 3.Retirar efectivo                                     |
-|  4.Otras opciones                                      |
-| - .Seguros                                             |
-| - .Créditos                                            |
-| - 5.Salir                                              |
+| -bienvenido a BANANAMEX                                   |
+| 1. Consultar saldo
+2. Consultar estado de cuenta
+3. Retirar Efectivo
+4. Otras opciones
+5. Salir  |                                             |
 +--------------------------------------------------------+
 ~~~
 -si es que elige usar la opcion 5
 ~~~
 +-------------------------------------------------------+
-|-gracias por elegir su servicio                        |
-|                                                       |
+Graciotaas..|                                           |
 |                                                       |
 |                                                       |
 |                                                       |
